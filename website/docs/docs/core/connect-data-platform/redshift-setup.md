@@ -132,7 +132,7 @@ The `iam_profile` config option for Redshift profiles is new in dbt v0.18.0
 
 When the `iam_profile` configuration is set, dbt will use the specified profile from your `~/.aws/config` file instead of using the profile name `default`
 ## Redshift notes
-### sslmode
+### sslmode change
 
 
 ### `sort` and `dist` keys
